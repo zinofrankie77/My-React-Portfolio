@@ -3,6 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../Assets/portfolio1.jpg'
 import IMG2 from '../../Assets/portfolio2.jpg'
 import IMG3 from '../../Assets/portfolio3.jpg'
+import IMG4 from '../../Assets/portfolio4.jpg'
 
 
 const data = [
@@ -25,6 +26,13 @@ const data = [
       title: 'Fink Photography',
       github: "https://github.com/zinofrankie77/FINK-PHOTO",
       demo: "https://fink-photo.vercel.app/"
+  
+  },{
+      id: 4,
+      image: IMG4,
+      title: 'React Portfolio',
+      github: "https://github.com/zinofrankie77/My-React-Portfolio",
+      demo: "https://frankzino.vercel.app/"
   }
 ]
 

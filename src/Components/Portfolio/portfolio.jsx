@@ -15,6 +15,13 @@ const data = [
       demo: "https://fink-social.vercel.app/",
   },
   {
+      id: 1,
+      image: IMG1,
+      title: 'Fink Social App',
+      github: "https://github.com/zinofrankie77/fink-social",
+      demo: "https://fink-social.vercel.app/",
+  },
+  {
       id: 2,
       image: IMG2,
       title: 'Fink Gym',

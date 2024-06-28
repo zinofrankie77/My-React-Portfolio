@@ -10,7 +10,7 @@ const data = [
   {
       id: 1,
       image: IMG1,
-      title: 'Social App',
+      title: 'Fink Social App',
       github: "https://github.com/zinofrankie77/fink-social",
       demo: "https://fink-social.vercel.app/",
   },

@@ -30,18 +30,19 @@ const experience = () => {
                <h4>JavaScript</h4>
                </div> 
             </article>
-            <article className='experience__details'>
-               <BsPatchCheckFill className='experience__details-icon'/>
-               <div>
-               <h4>React JS</h4>
-               </div> 
-            </article>
+            
           </div>
         </div> 
         
           <div className='frame__work'>
             <h3>Frame Work</h3>
-            <div className='experience__content'>             
+            <div className='experience__content'>
+                <article className='experience__details'>
+                   <BsPatchCheckFill className='experience__details-icon'/>
+                   <div>
+                   <h4>React JS</h4>
+                   </div> 
+                </article>             
                 <article className='experience__details'>
                    <BsPatchCheckFill className='experience__details-icon'/>
                    <div>
@@ -54,18 +55,8 @@ const experience = () => {
                    <h4>Material UI</h4>
                    </div> 
                 </article>
-                <article className='experience__details'>
-                   <BsPatchCheckFill className='experience__details-icon'/>
-                   <div>
-                   <h4>Wordpress</h4>
-                   </div> 
-                </article>
-                <article className='experience__details'>
-                   <BsPatchCheckFill className='experience__details-icon'/>
-                   <div>
-                   <h4>Responsive Web Design</h4>
-                   </div> 
-                </article>
+                
+                
             </div>
           </div>
       </div>

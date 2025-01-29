@@ -4,22 +4,17 @@ import IMG1 from '../../Assets/portfolio1.jpg'
 import IMG2 from '../../Assets/portfolio2.jpg'
 import IMG3 from '../../Assets/portfolio3.jpg'
 import IMG4 from '../../Assets/portfolio4.jpg'
+import IMG5 from '../../Assets/portfolio5.jpg'
+import IMG6 from '../../Assets/portfolio6.jpg'
 
 
 const data = [
   {
       id: 1,
       image: IMG1,
-      title: 'Fink Social App',
-      github: "https://github.com/zinofrankie77/fink-social",
-      demo: "https://fink-social.vercel.app/",
-  },
-  {
-      id: 1,
-      image: IMG1,
-      title: 'Fink Social App',
-      github: "https://github.com/zinofrankie77/fink-social",
-      demo: "https://fink-social.vercel.app/",
+      title: 'Mr Zee Salon',
+      github: "https://github.com/zinofrankie77/Barber-Site",
+      demo: "https://zeesalon.vercel.app/",
   },
   {
       id: 2,
@@ -27,19 +22,21 @@ const data = [
       title: 'Fink Gym',
       github: "https://github.com/zinofrankie77/FinkGym-App",
       demo: "https://fink-gym-app.vercel.app/"
-  },{
-      id: 3,
-      image: IMG3,
-      title: 'Fink Photography',
-      github: "https://github.com/zinofrankie77/FINK-PHOTO",
-      demo: "https://fink-photo.vercel.app/"
-  
-  },{
+  },
+  {
       id: 4,
       image: IMG4,
       title: 'React Portfolio',
       github: "https://github.com/zinofrankie77/My-React-Portfolio",
       demo: "https://frankzino.vercel.app/"
+  },
+  {
+      id: 6,
+      image: IMG6,
+      title: 'Gbus-Min Global Ventures',
+      github: "https://github.com/zinofrankie77/Gbus-Min",
+      demo: "https://gbusminglobalventureslimited.com//"
+  
   }
 ]
 

@@ -22,24 +22,24 @@ const about = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>2+ Years Working</small>
+              <small>1 Years Working</small>
             </article>
 
             <article className='about__card'>
               <FaUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>10+ Clients Worldwide</small>
+              <small>1+ Clients Worldwide</small>
             </article>
 
             <article className='about__card'>
               <PiProjectorScreenChartFill className='about__icon'/>
               <h5>Projects</h5>
-              <small>10+ Completed</small>
+              <small>3+ Completed</small>
             </article>
           </div>
 
           <p>
-          Hello world! I am Ugbobor Frank, a Front-end Web Developer based out of Port Harcourt, Nigeria. From choreography on a page to lines of code on a web page, I love combining the worlds of logic and creative design to make eye-catching, accessible, and user-friendly websites and applications
+          Hello world! I am Ugbobor Frank, a Frontend Web Developer based in Nigeria. From choreography on a page to lines of code on a web page, I love combining the worlds of logic and creative design to make eye-catching, accessible, and user-friendly websites
           I am exicted to make the leap and continue refining my skills with the right company.
           </p>
 

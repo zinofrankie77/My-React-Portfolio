@@ -24,12 +24,21 @@ const data = [
       demo: "https://fink-gym-app.vercel.app/"
   },
   {
+      id: 3,
+      image: IMG3,
+      title: 'Fink Photography',
+      github: "https://github.com/zinofrankie77/FINK-PHOTO",
+      demo: "https://fink-photo.vercel.app/"
+  
+  },
+  {
       id: 4,
       image: IMG4,
       title: 'React Portfolio',
       github: "https://github.com/zinofrankie77/My-React-Portfolio",
       demo: "https://frankzino.vercel.app/"
   },
+  
   {
       id: 6,
       image: IMG6,
